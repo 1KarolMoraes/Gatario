@@ -1,0 +1,5 @@
+{"username": "maria", "date": "26/05/2025", "hour": "10:30:00", "message": "bom dia!"}
+{"username": "lucio", "date": "29/05/2025", "hour": "00:25:43", "message": "Meu dia de hoje foi sensacional"}
+{"username": "lucio", "date": "29/05/2025", "hour": "00:26:00", "message": "Tirei uma nota alta na minha prova de EDA III"}
+{"username": "Marina", "date": "29/05/2025", "hour": "00:29:14", "message": "Tirei nota máxima na prova de EDA III"}
+{"username": "Marina", "date": "29/05/2025", "hour": "00:29:24", "message": "Sinto que nada vai me abalar nessa semana"}

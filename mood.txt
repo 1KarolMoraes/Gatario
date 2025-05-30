@@ -1,0 +1,2 @@
+{"username": "lucio", "date": "20/05/2025", "image_url": "https://www.nicelembrancinhas.com.br/image/catalog/SHREK/SHREK%20GATO%20DE%20BOTAS.jpg"}
+{"username": "Marina", "date": "29/05/2025", "image_url": "https://img.freepik.com/fotos-premium/retrato-de-um-gato-bonito_928869-30392.jpg?semt=ais_hybrid&w=740"}

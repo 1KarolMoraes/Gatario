@@ -1,0 +1,6 @@
+{"username": "maria", "email": "maria@email.com", "password": "maria456"}
+{"username": "Karol", "email": "karol@karol.com", "password": "karol123"}
+{"username": "lucio", "email": "lucio@lucio.com", "password": "lucio123"}
+{"username": "teste", "email": "teste@teste.com", "password": "teste123"}
+{"username": "lucio2", "email": "lucio2@lucio.com", "password": "lucio123"}
+{"username": "Marina", "email": "marina@marina.com", "password": "marina123"}
